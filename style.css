@@ -13,15 +13,16 @@ body{
 
 nav{
   background: white;
-  height: 80px;
+  height: 100px;
   width: 100%;
 }
 
 label img{
   width: 14%;
   margin-left: 1%;
-  height: 90px;
+  height: 150px;
   margin-top: 5px;
+  margin-bottom: 10px;
 }
 
 label.logo{
