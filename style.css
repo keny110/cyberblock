@@ -145,7 +145,8 @@ section{
 .inbox{
   width: 70%;
   float: right;
-  border-bottom: 2px solid grey;
+  height: 400px;
+  border-bottom: 3px solid grey;
 }
 
 .inbox h2{
