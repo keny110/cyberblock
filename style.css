@@ -20,11 +20,12 @@ nav{
 label img{
   width: 14%;
   margin-left: 1%;
-  height: 150px;
+  height: 70px;
+  margin-top: 5px;
 }
 
 label.logo{
-  height: 70px;
+  height: 100px;
   width: 100px;
   line-height: 80px;
   padding: 0 100px;
