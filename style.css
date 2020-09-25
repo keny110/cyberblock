@@ -189,6 +189,6 @@ section{
   height: 140px;
   box-shadow: 0 0 20px black;
   transition: .5s;
-  border-top: 3px solid blue;
-  border-left: 3px solid blue;
+  border-top: 5px solid black;
+  border-left: 5px solid black;
 }
