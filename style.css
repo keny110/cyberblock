@@ -145,6 +145,7 @@ section{
 .inbox{
   width: 70%;
   float: right;
+  border-bottom: 2px solid grey;
 }
 
 .inbox h2{
@@ -177,6 +178,7 @@ section{
   margin-left: 40%;
   margin-top: 198px;
   height: 140px;
+  border-radius: 20px;
 }
 
 .box img:hover{
