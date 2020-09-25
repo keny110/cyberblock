@@ -136,6 +136,12 @@ section{
   width: 100%;
 }
 
+.contanier::after{
+  content: '';
+  clear: both;
+  display: table;
+}
+
 .inbox{
   width: 70%;
   float: right;
