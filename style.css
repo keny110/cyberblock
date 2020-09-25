@@ -148,8 +148,8 @@ section{
 }
 
 .inbox h2{
-  width: 90%;
-  margin-left: 5%;
+  width: 86%;
+  margin-left: 8%;
   color: white;
   margin-top: 100px;
   margin-bottom: 100px;
@@ -158,8 +158,8 @@ section{
 }
 
 .inbox p{
-  width: 90%;
-  margin-left: 5%;
+  width: 86%;
+  margin-left: 8%;
   color: white;
   font-size: 13px;
   text-align: center;
@@ -187,5 +187,5 @@ section{
   box-shadow: 0 0 20px black;
   transition: .5s;
   border-top: 3px solid blue;
-  border-left: 3px solid blue; 
+  border-left: 3px solid blue;
 }
